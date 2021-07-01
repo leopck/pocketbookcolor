@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Pocketbook Color e-reader Exploration
 
-You can use the [editor on GitHub](https://github.com/leopck/pocketbookcolor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+** Notice: This is not Pocketbook Inkpad! Pocketbook Color is older version of Pocketbook Inkpad, as far as I know the display, battery and the USB C has been upgraded to the Pocketbook Color but Processor and RAM might be the same **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/4161783/124057360-e7277780-da59-11eb-8cb7-ddce043c398a.png)
 
-### Markdown
+Pocketbook Color specification:
+1. CPU: All-Winner B288 (dual-core 1GHz)
+2. RAM: 1GB
+3. Storage: eMMC 5.1 Samsung 16GB  
+[KLMAG1JETD-B041](https://www.samsung.com/semiconductor/estorage/emmc/KLMAG1JETD-B041/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+1. Kernel: https://github.com/leopck/kernel-b288
+2. Storage: eMMC 5.1 Samsung 16GB  
+[KLMAG1JETD-B041](https://www.samsung.com/semiconductor/estorage/emmc/KLMAG1JETD-B041/)
 
-# Header 1
-## Header 2
-### Header 3
+Reference from FCC specification: https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=Y&application_id=3WBcCnaQ3Yd9DsKTXY%2BjCg%3D%3D&fcc_id=2AUVWPB633
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leopck/pocketbookcolor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
