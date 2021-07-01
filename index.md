@@ -15,5 +15,13 @@ Pocketbook Color specification:
 2. Storage: eMMC 5.1 Samsung 16GB  
 [KLMAG1JETD-B041](https://www.samsung.com/semiconductor/estorage/emmc/KLMAG1JETD-B041/)
 
+## UART
+
+![image](https://user-images.githubusercontent.com/4161783/124072047-d7685d00-da72-11eb-91f5-4fe1b67b0131.png)
+
+There's seems to be a UART connection at the board however, I have not tried this port myself yet.
+
+As observed we see a 3.3v, TX, RX and GND connection to the board.
+
 Reference from FCC specification: https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits&RequestTimeout=500&calledFromFrame=Y&application_id=3WBcCnaQ3Yd9DsKTXY%2BjCg%3D%3D&fcc_id=2AUVWPB633
 
